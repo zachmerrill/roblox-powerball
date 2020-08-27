@@ -8,4 +8,4 @@ A Roblox game where two competing players must score coloured balls in the the c
 ## Building
 The game is a [Roblox Studio](https://www.roblox.com/create) project. The latest build (```build/game.rbxlx```) can be opened and edited using Roblox Studio without any other tools.
 
-Work on the project should be done using [Visual Studio Code](https://code.visualstudio.com/) with the [Rojo](https://rojo.space/) extension.
+Lua scripting should be done using [Visual Studio Code](https://code.visualstudio.com/) with the [Rojo](https://rojo.space/) extension.
