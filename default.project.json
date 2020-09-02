@@ -58,7 +58,7 @@
       "$properties": {
         "FilteringEnabled": true
       },
-      "Terrain": {
+      "World": {
         "$path": "World.rbxmx"
       }
     }
