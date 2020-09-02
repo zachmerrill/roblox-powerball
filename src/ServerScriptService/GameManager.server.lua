@@ -2,11 +2,11 @@
 -- The main game loop
 
 -- Services
-local ServerScriptService = game:GetService("ServerScriptService")
+local ServerStorage = game:GetService("ServerStorage")
 local Players = game:GetService("Players")
 
 -- Module Scripts
-local source = ServerScriptService:WaitForChild("Source")
+local source = ServerStorage:WaitForChild("Source")
 local matchManager = require(source:WaitForChild("MatchManager"))
 local gameSettings = require(source:WaitForChild("GameSettings"))
 
