@@ -25,7 +25,20 @@
     "ReplicatedStorage": {
       "$className": "ReplicatedStorage",
       "Source": {
-        "$path": "src"
+        "$path": "src/ReplicatedStorage"
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "Source": {
+        "$path": "src/ServerScriptService"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "$path": "src/StarterPlayer/StarterPlayerScripts"
       }
     },
     "SoundService": {
@@ -39,27 +52,8 @@
       "$properties": {
         "FilteringEnabled": true
       },
-      "Baseplate": {
-        "$className": "Part",
-        "$properties": {
-          "Position": [
-            0.0,
-            -10.0,
-            0.0
-          ],
-          "Size": [
-            512.0,
-            20.0,
-            512.0
-          ],
-          "Locked": true,
-          "Anchored": true,
-          "Color": [
-            0.38823,
-            0.37254,
-            0.38823
-          ]
-        }
+      "Terrain": {
+        "$path": "src/World.rbxmx"
       }
     }
   }
