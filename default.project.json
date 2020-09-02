@@ -53,7 +53,7 @@
         "FilteringEnabled": true
       },
       "Terrain": {
-        "$path": "src/World.rbxmx"
+        "$path": "World.rbxmx"
       }
     }
   }
