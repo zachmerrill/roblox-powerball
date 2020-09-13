@@ -6,6 +6,7 @@ A Roblox game where two competing players must score coloured balls in the the c
  - *World.rbxmx*: The Roblox world file
  - *src*: Lua scripts
     - *ServerScriptService*: Game scripts which will be run on the server and __not__ replicated to game clients
+    - *ServerStorage*: Module scripts for use by the server
 ## Building
 The game is a [Roblox Studio](https://www.roblox.com/create) project scripted with the [Rojo](https://rojo.space/) extension for better project management.
 
